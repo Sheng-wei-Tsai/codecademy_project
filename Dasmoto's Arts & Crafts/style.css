@@ -1,0 +1,41 @@
+* {
+    font-family: Helvetica;
+    font-weight: bold;
+}
+
+h1 {
+    font-size: 100px;
+    color: khaki;
+    text-align: center;
+}
+
+article h2 {
+    font-size: 32px;
+    color: white;
+
+}
+
+#brushes {
+    background-color: mediumspringgreen;
+}
+
+#frames {
+    background-color: lightcoral;
+}
+
+#paint {
+    background-color: skyblue;
+}
+
+nav {
+    background-image: url(image/pattern.jpeg);
+}
+
+span {
+    font-weight: bold;
+    color: blue;
+}
+
+figure {
+    margin-left: 0;
+}
